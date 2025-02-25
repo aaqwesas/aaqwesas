@@ -7,10 +7,10 @@
 ![Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,java,python,r)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,vuejs,html,css,tailwind,boostrap)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,vuejs,html,css,tailwind,boostrap)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=django,docker,firebase,supabase)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=django,nodejs,docker,firebase,supabase)](https://skillicons.dev)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
