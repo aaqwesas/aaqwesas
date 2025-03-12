@@ -20,4 +20,4 @@
 ![AI or ML](https://skillicons.dev/icons?i=tensorflow,pytorch)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,figma,gitlab,eclipse,opencv,ubuntu,arch)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,figma,gitlab,eclipse,opencv,ubuntu,arch,neovim)
