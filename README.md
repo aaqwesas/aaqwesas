@@ -16,8 +16,5 @@
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
-### AI/ML
-![AI or ML](https://skillicons.dev/icons?i=tensorflow,pytorch)
-
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,figma,gitlab,eclipse,opencv,ubuntu,arch,neovim)
