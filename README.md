@@ -1,5 +1,3 @@
-## Skills
-
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,java,python,r)
 
